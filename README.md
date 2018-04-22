@@ -5,4 +5,3 @@ API Gateway
 * JavaScript
 * Node.js
 * GraphQL
-# sa_academy_api
